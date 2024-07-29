@@ -203,7 +203,7 @@ Apps that can be used across multiple social media apps.
 
 |  # |  |  |  Name | Platform | Description |
 |:--:| --- | --- | --- | --- | --- |
-| 1. | 🟥 | | [Threads Downloader](https://threadsdownloader.com) | Web | Threads Video Downloader |
+| 1. | 🟥 | | [Threads Downloader](https://threadslink.tech/) | Web | Threads Video Downloader |
 | 2. | 🟩 | | [ThreadFaker](https://threadfaker.com) | Web | Fake Threads Post Generator |
 | 3. | 🟩 | | [Threads Circles](https://threadscircles.com) | Web | Create your own Threads interaction circle |
 
@@ -246,7 +246,7 @@ Apps that can be used across multiple social media apps.
 | 20. | ⬛ | | [Pikaso Twitter Bot](https://pikaso.me/twitter-bot) | Bot | Screenshotting bot for Twitter |
 | 21. | 🟧 | | [Politwoops](https://projects.propublica.org/politwoops/) | Web | Archive of deleted political tweets |
 | 22. | 🟩 | | [poet.so](https://poet.so/) | Web | Capture and share tweets as images | 
-| 23. | 🟨 | | [Readwise](https://readwise.io) | [iOS](https://apps.apple.com/us/app/readwise/id1476885528), [Android](https://play.google.com/store/apps/details?id=com.readwise) | Save and revisit your best twitter highlights |    
+| 23. | 🟨 | | [Readwise](https://readwise.io) | [iOS](https://apps.apple.com/us/app/readwise/id1476885528), [Android](https://play.google.com/store/apps/details?id=com.readwise) | Save and revisit your best twitter higshlights |    
 | 24. | 🟫 | [❋](https://github.com/Altimis/Scweet) | [Scweet](https://github.com/Altimis/Scweet) | Python | Twitter scraper using Selenium |
 | 25. | 🟧 | | [StockTwits](https://stocktwits.com/) | Web, iOS, Android | Realtime tweets about stocks, crypto, futures, and forex |
 | 26. | 🟫 | | [The.Rip](https://the.rip) | Web/Bot | Convert tweets to markdown |
